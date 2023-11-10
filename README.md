@@ -39,3 +39,20 @@ A List of Interview Questions which are added as a reference for fellow devs
 <li> What is Next.js and its Features ?</li>
 <li> Explain Var, Let, Const ? </li>
 <li> Is the function used in useState Hook to update state value is synchronous or asynchronous ? </li>
+
+<h2> HCL </h2>
+<ul>
+<li>What is Flexbox ? What is the usuage of Flexbox ? </li>
+<li> Explain useMemo & useCallback ? </li>
+<li>Difference State Component & Functional Component ? </li>
+<li> What is Component Did Mount ? </li>
+<li>What is difference between useState & useReducer ? </li>
+<li> How can componentDidMount using Hooks ? </li>
+<li> Explain Callback functions ? </li>
+<li> Explain Higher Order Functions ? </li>
+<li> Dependency Injections ? </li>
+<li> Explain Closures ? What is the need of closures in Applications ? </li>
+<li> Explain Redux Flow ? </li>
+<li>Explain mapStateToProps, mapDispatchToProps ? </li>
+<li> Difference null & undefined in Javascript ? </li>
+</ul>
