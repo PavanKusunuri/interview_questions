@@ -1,5 +1,6 @@
 # Interview Questions
-A List of Interview Questions which are added as a reference for fellow devs
+A List of Interview Questions which are asked for 4 year experience who is looking for a fullstack position, It can be a good reference for some one with relevant experience looking for a change. 
+
 <h2>KPMG</h2>
 <ul>
   <li>What is Closures ? Why do we need closures ?</li>
@@ -67,4 +68,23 @@ A List of Interview Questions which are added as a reference for fellow devs
 <li> Explain Redux Flow ? </li>
 <li>Explain mapStateToProps, mapDispatchToProps ? </li>
 <li> Difference null & undefined in Javascript ? </li>
+</ul>
+
+
+<h2> Global Logic</h2>
+<ul>
+  <li>Explain State and Functional Components in React ?  </li>
+  <li> Difference between dependencies and dev dependencies ? </li>
+  <li> Explain How Non Blocking I/o Code works in Node.js ? </li>
+  <li> What is Event Loop ?</li>
+  <li> How TypeScript converts the Typescript code into Javascript code ?</li>
+</ul>
+
+<h2> Woodmac</h2>
+<ul>
+  <li> Explain Let, Const and Var </li>
+  <li> Explain React Redux vs Context API ? </li>
+  <li> Explain Lifecycle in Hooks </li>
+  <li> What is State and Props ? </li>
+  <li> Explain Agile and Scrum Methodology ? </li>
 </ul>
