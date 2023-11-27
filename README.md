@@ -107,3 +107,20 @@ A List of Interview Questions which are asked for 4 year experience who is looki
   <li>Data Types in Javascript ? </li>
   <li>Explain difference between map and forEach in Javascript ?</li>
 </ul>
+
+<h2> CapGemini</h2>
+<ul>
+  <li>State and Functional Components in React ?</li>
+  <li> When to prefer class components over functional components in React ?</li>
+  <li> What is prototypal Inheritance and Explain Prototype Chaining ? </li>
+  <li> Explain useEffect ? </li>
+  <li> Explain Event Loop ? </li>
+  <li> Explain Promises ? </li>
+  <li> Explain Async/Await ? </li>
+  <li> Higher Order Functions ?</li>
+  <li> Datatypes in JS ? </li>
+  <li> setInterval, setImmediate and setTimeout ? </li>
+  <li> Explain Callback ? </li>
+  <li> What is Lazy Loading ? </li>
+  <li> Explain Closures ?</li>
+</ul>
