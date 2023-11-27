@@ -142,3 +142,16 @@ A List of Interview Questions which are asked for 4 year experience who is looki
   <li>JSON Web Tokens ? </li>
   <li> Explain about parsing and unparsing values in js ? </li>
 </ul>
+
+<h2>ServiceNow </h2>
+<ul>
+  <li>Explain Callback Function ? </li>
+  <li>Explain Debouncing in JS ?</li>
+   <li>What is meant by BFS ? Problems on BFS ? </li>
+  <li> How to modify a 2D Array ? </li>
+  <li> Remove Duplicates in an array ? </li>
+  <li> How to handle Browser Resizing and Window Resizing ? </li>
+  <li>How to access the values of an Object ? </li>
+  <li>How to convert an array to Object ? </li>
+  <li> How to convert an object to Array ?</li>
+</ul>
