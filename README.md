@@ -124,3 +124,21 @@ A List of Interview Questions which are asked for 4 year experience who is looki
   <li> What is Lazy Loading ? </li>
   <li> Explain Closures ?</li>
 </ul>
+
+<h2> IQUVI</h2>
+<ul>
+  <li>HTML 5 Apis ?</li>
+<li> Flexbox</li>
+  <li>CSS Grid </li>
+  <li> LocalStorage | Session Storage | Cookies </li>
+  <li> What is Redux ? Why do we need Redux ? </li>
+  <li> What is mapStateToProps and mapDispatchToProps ? </li>
+<li> Why Redux is preferred over context api ?</li>
+  <li> How to access the selected part of store from a component ? </li>
+  <li> Hoisiting ? </li>
+  <li> Async/Await ? </li>
+<li> CSS Selector Methods ? </li>
+  <li> BOX MODEL ? </li>
+  <li>JSON Web Tokens ? </li>
+  <li> Explain about parsing and unparsing values in js ? </li>
+</ul>
