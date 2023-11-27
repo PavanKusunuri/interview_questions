@@ -83,8 +83,27 @@ A List of Interview Questions which are asked for 4 year experience who is looki
 <h2> Woodmac</h2>
 <ul>
   <li> Explain Let, Const and Var </li>
+  <li>Explain difference between map and forEach in Javascript ?</li>
   <li> Explain React Redux vs Context API ? </li>
   <li> Explain Lifecycle in Hooks </li>
   <li> What is State and Props ? </li>
   <li> Explain Agile and Scrum Methodology ? </li>
+</ul>
+
+<h2> LG Soft</h2>
+<ul>
+  <li>  Explain CSS BOX Model ?</li>
+  <li> What is Z-index ? </li>
+  <li>Explain Position Absolute, Relative, Static and Sticky ? </li>
+  <li>Explain Closures in Javascript  ? </li>
+  <li>What is Event Loop ? </li>
+  <li>IIFE Function ? </li>
+  <li>Explain the difference between state and functional component ?</li>
+  <li> What is state and What is Props ? </li>
+  <li>Explain unidirectional data flow in React ? </li>
+  <li>Explain Prop Drilling ? How can we avoid Prop Drilling ? </li>
+  <li>Explain React Context and Redux ? </li>
+  <li>Explain setTimeout and setImmediate functions</li>
+  <li>Data Types in Javascript ? </li>
+  <li>Explain difference between map and forEach in Javascript ?</li>
 </ul>
