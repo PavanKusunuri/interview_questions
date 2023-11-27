@@ -22,6 +22,18 @@ A List of Interview Questions which are added as a reference for fellow devs
 <li> What is Async/Await in Javascript?</li>
 <li> What is Authentication and What is Authorization ? Explain the differences between them?</li>
 
+<h3> Round 3</h3>
+<ul>
+  <li>What is Nest.js ? </li>
+  <li> What is React Query ?</li>
+  <li> Explain React State Components and Functional Components ?</li>
+  <li> Explain which is better State Components or Functional Components ? </li>
+  <li> What is Promises ?  What issues does promises solve which call back functions cannot ? </li>
+  <li> What is Async Await ? What is the need of introducing Async Await ? </li>
+  <li> What is Arrow Functions ? How it is different from normal functions ? </li>
+  <li> What is Nest.js ?</li>
+</ul>
+
 <h2> Lowes India</h2>
 <li> What is SASS Product ? </li>
 <li> Explain TestDrivenDevelopment ? </li>
